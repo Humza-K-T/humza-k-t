@@ -1,7 +1,7 @@
 ### Hi there 👋   ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/humzakt.png)
 
 
-<img src="https://cdn.worldvectorlogo.com/logos/facebook-3-2.svg =100x100" width="200" height="200" />
+<img src="https://cdn.worldvectorlogo.com/logos/facebook-3-2.svg" width="200" height="200" />
 
 <!--
 **Humza-K-T/humza-k-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
