@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Header image](https://tryhackme-badges.s3.amazonaws.com/humzakt.png)
+
 <!--
 **Humza-K-T/humza-k-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
