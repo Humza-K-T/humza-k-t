@@ -18,7 +18,7 @@
 ---
 ### What am I up to?
 #### Learning cyber security at TryHackMe.
-<script src="https://tryhackme.com/badge/1174567"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/humzakt.png" alt="TryHackMe">
 ---
 
 - 👯 I’m looking to collaborate on freelance mobile and web development projects.
