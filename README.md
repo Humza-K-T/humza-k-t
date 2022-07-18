@@ -7,9 +7,9 @@
 ### A comupter science student exploring multiple technologies and trying to find THE domain xD
 ---
 ## Socials
-<a href="https://twitter.com/humzakt"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" width="30" height="30" /> </a>
-<a href="https://linkedin.com/in/humzakt"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" width="30" height="30" /> </a>
-<a href="https://humzakt.github.io"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_DZ28id-1SSsATC3dXnz1v1I11o3DRNiA1g&usqp=CAU" width="30" height="30" /> </a>
+- <a href="https://twitter.com/humzakt"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" width="30" height="30" /> </a>  
+- <a href="https://linkedin.com/in/humzakt"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" width="30" height="30" /> </a>  
+- <a href="https://humzakt.github.io"><img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" width="30" height="30" /> </a>
 
 
 
