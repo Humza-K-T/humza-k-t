@@ -24,6 +24,6 @@
 - 👯 I’m looking to collaborate on freelance mobile and web development projects.
 - 🤔 I’m looking for help with cybersecurity training.
 - 📫 How to reach me: 
--- [Twitter](https://twitter.com/humzakt)
--- [LinkedIn](https://linkedin.com/in/humzakt)
+  -- [Twitter](https://twitter.com/humzakt)
+  -- [LinkedIn](https://linkedin.com/in/humzakt)
 - 😄 Pronouns: He/Him
